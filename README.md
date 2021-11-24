@@ -19,5 +19,3 @@
 ### About :
 I am an Engineer with extensive experience in researching, designing and developing solutions for many business problems using advanced research and technologies.I have strong knowledge and understanding of the techniques such as predictive modelling, Statistics, Classification models, Regression models, Natural Language Processing, Web scraping, data analysis and visualisation. I am more comfortable with the programming languages such as Python and SQL.
 
-CV : [Navas CV](https://drive.google.com/file/d/1CRE5B9ZncM1M5ziVPMDJVFS-8rqEiLSA/view?usp=sharing)
-[<img align="left" alt="navassherif98 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] [<img align="left" alt="navassherif98 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
