@@ -17,5 +17,5 @@
 ***
 
 ### About :
-I am an Engineer with extensive experience in researching, designing and developing solutions for many business problems using advanced research and technologies. I have strong knowledge and understanding of the techniques such as predictive modelling, Statistics, Classification models, Regression models, Natural Language Processing, Web scraping, data analysis and visualisation. Having me on your side can help management and stakeholders for taking the best decisions for the growth of the company.
+I am an Engineer with extensive experience in researching, designing and developing solutions for many business problems using advanced research and technologies. I have strong knowledge and understanding of the techniques such as predictive modelling, Statistics, Classification models, Regression models, Natural Language Processing, Web scraping, data analysis and visualisation. Having me on your side can help the management and stakeholders in taking the best decisions for the growth of the company.
 
