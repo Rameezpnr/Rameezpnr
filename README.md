@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently working on **Amazon Sentiment Analysis and sales prediction**
 
-/- 📫 How to reach me **dr.rameezz@gmail.com**
-
 - ⚡ Fun fact: **I am an artist and a videographer**
 
-/<h3 align="left">Connect with me:</h3>
+/<h3 align="left">“If we have data, let’s look at data. If all we have are opinions, let’s go with mine.” — Jim Barksdale</h3>
 /<p align="left">
 /</p>
 
