@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Ramees</h1>
 <h3 align="center">I'm a Data scientist with a Btech degree.</h3>
 
-- 🔭 I’m currently as data scientist at **Drona ayurveda**
+- 🔭 I’m currently working as a data scientist at **Drona ayurveda**
 
 - ⚡ Fun fact: **I am an artist and a videographer**
 
