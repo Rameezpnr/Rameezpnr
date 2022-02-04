@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Ramees</h1>
 <h3 align="center">I'm a Data enthusiast with a Btech degree.</h3>
 
-- 🔭 Experienced data scientist with proven success in implementing algorithms and predictive models for different industries. Highly skilled at supervised, unsupervised, data analysis and visualization. Passionate engineer and thriving analyst with the ability to apply machine learning techniques and algorithms to solve real-world industry problems. Skilled in database management, web scraping, NLP, predictive modelling, classification and regression models. Holds a strong vision of business development and management.
+- 🔭 A continuous Learner who Posses strong coding and problem solving skills with hands on experience with latest technologies.
 
 - ⚡ Fun fact: **I am an artist and a videographer**
 
