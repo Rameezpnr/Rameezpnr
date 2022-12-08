@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact: **I am an artist and a videographer**
 
-<h3 align="left">“If we have data, let’s look at data. If all we have are opinions, let’s go with mine.” — Jim Barksdale</h3>
+<h3 align="left">"If we have data, let’s look at data. If all we have are opinions, let’s go with mine.”</h3>
 <p align="left">
 </p>
 
