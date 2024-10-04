@@ -43,7 +43,7 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 
-    <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
   <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="python" width="40" height="40"/> </a>
   
   <a href="https://www.sas.com/en_us/software/enterprise-guide.html" target="_blank" rel="noreferrer">
