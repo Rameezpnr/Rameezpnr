@@ -47,7 +47,8 @@
   <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="python" width="40" height="40"/> </a>
   
   <a href="https://www.sas.com/en_us/software/enterprise-guide.html" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/sas-1.svg" alt="sas_eg" width="40" height="40"/> </a>
+  <img src="https://www.vectorlogo.zone/logos/sas/sas-icon.svg" alt="sas_eg" width="40" height="40"/> </a>
+
 
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/> </a>
