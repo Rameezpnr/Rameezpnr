@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mohammed Ramees</h1>
-<h3 align="center">Data Scienctist</h3>
+<h1 align="center">Hi 👋, I'm Ramees</h1>
+<h3 align="center">Data Scientist</h3>
 
 - 🔭 A continuous Learner who Posses strong coding and problem solving skills with hands on experience with latest technologies.
 
